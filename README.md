@@ -5,7 +5,7 @@ I'm studying Computer Science and I'm mostly interested in Game Development, Gam
 - [Discord](https://discord.com/users/911974409919660062)
 
 ## 🥰 Support my work
-- [Ko-fi](https://ko-fi.com/mrkonic#paypalModal)
+- [Ko-fi](https://ko-fi.com/mrkonic)
 
 ## 🤖 Tools
 - I primarily use c++
