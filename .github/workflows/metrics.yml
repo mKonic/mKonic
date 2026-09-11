@@ -67,3 +67,12 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
+      - name: LeetCode
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode_user: mkonic
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills

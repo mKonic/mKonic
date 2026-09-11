@@ -13,7 +13,10 @@
 	   <td><img src="./metrics.plugin.languages.svg" alt="languages" /></td> 
    </tr>
    <tr>
-	   <td><img src="./metrics.plugin.stars.svg" alt="stars" /></td> 
+	   <td rowspan="2"><img src="./metrics.plugin.stars.svg" alt="stars" /></td> 
+   </tr>
+   <tr>
+	   <td><img src="./metrics.plugin.leetcode.svg" alt="leetcode" /></td> 
    </tr>
  </table>
 </div>
