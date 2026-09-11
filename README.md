@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Taiga</h1> -->
+<!-- <h1 align="center">Hi 👋, I'm mKonic</h1> -->
 <p> <img src="https://komarev.com/ghpvc/?username=mKonic&label=Profile%20views&color=0e75b6&style=flat" alt="mKonic" /> </p>
 
 <div align="center">
@@ -13,10 +13,7 @@
 	   <td><img src="./metrics.plugin.languages.svg" alt="languages" /></td> 
    </tr>
    <tr>
-	   <td rowspan="2"><img src="./metrics.plugin.stars.svg" alt="stars" /></td> 
-   </tr>
-   <tr>
-	   <td><img src="./metrics.plugin.leetcode.svg" alt="stars" /></td> 
+	   <td><img src="./metrics.plugin.stars.svg" alt="stars" /></td> 
    </tr>
  </table>
 </div>
